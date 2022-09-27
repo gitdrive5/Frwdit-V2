@@ -112,7 +112,7 @@ SESSION - Pyrogram string Seccion - https://replit.com/@ShivPrasad1/PyroSessionS
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/8769ANURAG/Frwdit-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shinigamibots5/Frwdit-V2)
 
 ### Deploying on Railway:
 
