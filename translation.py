@@ -19,7 +19,7 @@ More details /help</i>"""
 * /restart - <i>Server Restart</i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 <b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>About Guru</code>
+<b>Credit :</b> <code>ᗪᥙɗᥙ ᥫ᭡</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
