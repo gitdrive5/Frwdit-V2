@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @gurubhai11
+# (c) @Bae_wafaaa
 
 import pyromod.listen
 
