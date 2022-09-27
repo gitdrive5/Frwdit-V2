@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @gurubhai11
+# (c) @Bae_wafaaa
+
+
 from config import Config
 from config import LOGGER
 from pyrogram import Client, __version__
