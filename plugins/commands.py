@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AboutGuru1
+# (c) @Bae_wafaaa
 
 import os
 import sys
@@ -15,11 +15,11 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedi
 @Client.on_message(filters.private & filters.command(['start']))
 async def start(client, message):
     buttons = [[
-        InlineKeyboardButton('📜 Support Group', url='https://t.me/sources_cods'),
-        InlineKeyboardButton('Update Channel ♻️', url='https://t.me/MOVIES_ZILAA')
+        InlineKeyboardButton('🎻 Panipuri-Music', url='https://t.me/Panipoori_streamingbot'),
+        InlineKeyboardButton('Update Channel ♻️', url='https://t.me/akimaxmovies')
         ],[
-        InlineKeyboardButton('💡 SouceCode', url='https://github.com/8769ANURAG/Frwdit-V2'),
-        InlineKeyboardButton('String Session 🎻', url ='https://replit.com/@ShivPrasad1/PyroSessionString-1?v=1')
+        InlineKeyboardButton('💡 owner', url='https://github.com/8769ANURAG/Frwdit-V2'),
+        InlineKeyboardButton('📜 Support Group', url ='https://t.me/akimaxsupport')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_message(
@@ -34,7 +34,7 @@ async def start(client, message):
 @Client.on_message(filters.private & filters.command(['help']))
 async def help(client, message):
     buttons = [[
-        InlineKeyboardButton('SouceCode 💡', url='https://github.com/8769ANURAG/Frwdit-V2'),
+        InlineKeyboardButton('💡 Developer', url='https://t.me/Bae_wafaaa'),
         InlineKeyboardButton('close 🔐', callback_data='close_btn')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,7 +49,7 @@ async def help(client, message):
 @Client.on_message(filters.private & filters.command(['about']))
 async def about(client, message):
     buttons = [[
-        InlineKeyboardButton('💡 SouceCode', url='https://github.com/8769ANURAG/Frwdit-V2'),
+        InlineKeyboardButton('SouceCode 💡', url='https://t.me/Bae_wafaaa'),
         InlineKeyboardButton('close 🔐', callback_data='close_btn')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
