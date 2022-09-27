@@ -10,8 +10,8 @@
     "bot"
   ],
   "success_url": "https://t.me/sources_cods",
-  "website": "https://github.com/8769ANURAG/Frwdit-V2",
-  "repository": "https://github.com/8769ANURAG/Frwdit-V2",
+  "website": "https://github.com/Shinigamibots5/Frwdit-V2",
+  "repository": "https://github.com/Shinigamibots5/Frwdit-V2",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -34,11 +34,11 @@
       "required": false
     },
     "FILTER_TYPE": {
-      "description": "Type Of filters (document , audio , photo , video , animation)",
-      "value": "document"
+      "description": "Type Of filters (document , audio , photo , video , animation) else type empty",
+      "value": "empty"
     },
     "SESSION": {
-      "description": "Pyrogram string Seccion - https://replit.com/@ShivPrasad1/PyroSessionString-1?v=1",
+      "description": "Pyrogram string Seccion - https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1",
       "value": ""
     }
   },
