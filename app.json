@@ -1,16 +1,18 @@
 {
   "name": "Auto-Forward-Bot-V2",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
-  "logo": "https://telegra.ph/file/5c3499c3b2ec282cf0c4e.jpg",
+  "logo": "https://te.legra.ph/file/51d142cd1c5817832dd5c.jpg",
   "keywords": [
     "telegram",
     "best",
     "file",
     "forward",
-    "bot"
+    "bot",
+    "panippuri",
+    "dudu"
   ],
-  "success_url": "https://t.me/sources_cods",
-  "website": "https://github.com/Shinigamibots5/Frwdit-V2",
+  "success_url": "https://t.me/bae_wafaaa",
+  "website": "https://t.me/bae_wafaaa",
   "repository": "https://github.com/Shinigamibots5/Frwdit-V2",
   "env": {
     "API_ID": {
