@@ -1,6 +1,9 @@
 # 📠 Auto Forward V2
+
+
 A Simpe Bot can copy any media to a private channel provided!
 <p align="center"><a href="https://t.me/Bae_wafaaa"><img src="https://te.legra.ph/file/eeebca5b12ad18838e047.jpg"></a></p>
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
 
 # 📠 Auto Forward V2
 A Simple Bot can copy any media to a private channel provided!
