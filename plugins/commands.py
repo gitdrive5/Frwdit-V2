@@ -18,7 +18,7 @@ async def start(client, message):
         InlineKeyboardButton('🎻 Panipuri-Music', url='https://t.me/Panipoori_streamingbot'),
         InlineKeyboardButton('Update Channel ♻️', url='https://t.me/akimaxmovies')
         ],[
-        InlineKeyboardButton('💡 owner', url='https://github.com/8769ANURAG/Frwdit-V2'),
+        InlineKeyboardButton('💡 owner', url='https://t.me/Bae_wafaaa'),
         InlineKeyboardButton('📜 Support Group', url ='https://t.me/akimaxsupport')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
