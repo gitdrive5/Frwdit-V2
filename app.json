@@ -25,7 +25,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "5322382737:AAGWqY21L-mw_hPIbUF8sze_HrT9wEdDtGw"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
